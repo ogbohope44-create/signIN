@@ -1,5 +1,5 @@
 import React from "react";
-import office from "../public/office_workspace.avif";
+import office from "/public/office_workspace.avif";
 
 
 const HeroSection2 = () => {

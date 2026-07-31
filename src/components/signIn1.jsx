@@ -2,7 +2,7 @@ export const SignIn1 = () => {
   return (
     <section className="flex min-h-screen items-center justify-center bg-[#101828] p-6">
       <form className="flex w-full max-w-md flex-col gap-10 rounded-3xl bg-white/5 p-8 shadow-2xl shadow-black/20 backdrop-blur-xl">
-        <img src="./src/components/public/mark.svg" alt="mark.svg" className="h-12 self-center" />
+        <img src="./public/mark.svg" alt="mark.svg" className="h-12 self-center" />
         <h1 className="text-center text-2xl font-bold text-white">Sign in to your account</h1>
 
         <div className="flex flex-col gap-6 w-full">
